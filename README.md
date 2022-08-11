@@ -11,7 +11,7 @@
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=adefahmi&show_icons=true&count_private=true&hide_border=false&theme=vue-dark" />
 </a>
 <a href="https://github.com/adefahmi">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adefahmi&layout=compact&langs_count=20&count_private=true&hide_border=false&theme=vue-dark" />
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystique09&layout=compact&langs_count=20&count_private=true&hide_border=false&theme=vue-dark" />
 </a>
 
 ### Metrics. 
