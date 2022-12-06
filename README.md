@@ -4,7 +4,7 @@
 ##### ⚡ I'm the one.
 
 ### Visitor.
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antare74)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adefahmi)
 
 ### Stats.
 <a href="https://github.com/adefahmi">
